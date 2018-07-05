@@ -1,0 +1,13 @@
+# VSCode
+.vscode 
+tsconfig.json 
+jsconfig.json 
+bundles/
+package-lock.json
+
+# mac 
+*._*
+
+# node.js
+#
+node_modules/
